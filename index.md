@@ -11,13 +11,13 @@ An introduction to probability theory. Counting methods, conditional probability
 
 Lectures: 
 
-- Mon/Wed/Fri, 11:00 am - 11:50 am Lindy Boggs Energy Center 240 with zoom link (TBD)
+- Mon/Wed/Fri, 11:00 am - 11:50 am, Lindy Boggs Energy Center 240 with zoom link (TBD)
 
 Recitation:
 
-- Tuesday (Math 3071/6071-02), 2:00 pm - 3:15 pm Norman Mayer Building 200B
+- Tuesday (Math 3071/6071-02), 2:00 pm - 3:15 pm, Norman Mayer Building 200B
 
-- Thursday (Math 3071/6071-01), 12:30 pm - 1:45 pm Gibson Hall 325
+- Thursday (Math 3071/6071-01), 12:30 pm - 1:45 pm, Gibson Hall 325
 
 ## Instructor
 
