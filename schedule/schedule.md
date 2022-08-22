@@ -15,11 +15,15 @@ Math 3070/6070 tentative schedule and handouts (expect frequent updates)
 
 Topics:
 
-- A
-- B
-- C
+- axioms of probability
+- combinatorics
+- discrete random variables
+- continuous random variables
+- multivariate distributions
+- expectation
+- limit theorem
 
 
 | Monday | Wednesday | Friday | HW |
 |:-----------|:-----------|:------------|:---|
-| | | | |
+| **08/22** Introduction | | | [HW1](../HW/HW1/HW1.pdf) |
