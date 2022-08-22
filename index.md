@@ -5,7 +5,7 @@ title: Math 3070/6070
 
 ## Course Description
 
-An introduction to probability theory. Counting methods, conditional probability and independence. Discrete and continuous distributions, expected value, joint distributions and limit theorems. Prepares student for future work in probability and statistics.
+This course will provide a calculus-based introduction to probability theory. Material covered will include fundamental axioms of probability, combinatorics, discrete and continuous random variables, multivariate distributions, expectation, and limit theorems, generally following Chapters 1-5 of the textbook. This course is a critical prerequisite for more advanced work in statistical theory and analysis.
 
 ## Time and Location
 
@@ -24,7 +24,13 @@ Recitation:
 [Dr. Xiang Ji](https://sse.tulane.edu/math/faculty/ji)\
 Office: Gibson 401D\
 Email: <xji4@tulane.edu>\
-Office hours: TBD with zoom link: <https://tulane.zoom.us/j/97602892460>, or by appointment.
+Office hours: by appointment.
+
+## Teaching Assistant
+[Borui Zhao](https://sse.tulane.edu/content/current-graduate-students)\
+Office: Gibson 305C\
+Email: <bzhao1@tulane.edu>\
+Office hours: TBD
 
 
 ## Acknowledgement
