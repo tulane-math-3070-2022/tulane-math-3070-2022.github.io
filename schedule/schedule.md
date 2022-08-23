@@ -26,4 +26,4 @@ Topics:
 
 | Monday | Wednesday | Friday | HW |
 |:-----------|:-----------|:------------|:---|
-| **08/22** Introduction | | | [HW1](../HW/HW1/HW1.pdf) |
+| **08/22** Introduction | **08/24** Axioms of Probability | | [HW1](../HW/HW1/HW1.pdf) |
