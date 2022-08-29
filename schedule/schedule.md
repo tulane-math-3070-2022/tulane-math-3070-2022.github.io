@@ -7,9 +7,11 @@ title: Math 3070/6070
 
 Math 3070/6070 tentative schedule and handouts (expect frequent updates)
 
-[lecture notes](../notes/combined.pdf)
+[cumulative lecture notes](../notes/combined.pdf) (last update: {{ "now" | date: "%b %d" }})
 
-[pre-lecture notes](../notes/current.pdf)(last update: {{ "now" | date: "%b %d" }})
+[pre-lecture notes](../notes/current.pdf)
+
+[tentative next lecture notes](../notes/next.pdf)
 
 <!---->
 
