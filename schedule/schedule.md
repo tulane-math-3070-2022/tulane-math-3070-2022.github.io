@@ -32,4 +32,4 @@ Topics:
 |**08/29** Independence | **08/31** Random Variable | **09/02** Presentations | |
 |**09/05** no class (Labor day)| **09/07** Distribution Functions | **09/09** Presentations | [HW2](../HW/HW2/HW2.pdf)|
 |**09/12** Distribution Functions | **09/14** Continuous Random Variables | **09/16** Presentations | |
-|**09/19** Transformations | | | |
+|**09/19** Transformation of discrete r.v. | **09/21** Transformation of continuous r.v.  |  **09/23** Presentations| |
