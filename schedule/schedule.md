@@ -34,6 +34,6 @@ Topics:
 |**09/12** Distribution Functions | **09/14** Continuous Random Variables | **09/16** Presentations | |
 |**09/19** Transformation of discrete r.v. | **09/21** Transformation of continuous r.v.  |  **09/23** Presentations| |
 | **09/26** Expectation |**09/28** Expectation | **09/30** Presentations | [HW3](../HW/HW3/HW3.pdf)|
-| **10/03** Moments |  | **10/07** _no class_ (fall break) | |
+| **10/03** Moments | **10/05** HW review | **10/07** _no class_ (fall break) | |
 | **10/10** Midterm Exam 1| | | |
 | **11/21** _no class_ (Thanksgiving break) | **11/23** _no class_ (Thanksgiving break) | **11/25** _no class_ (Thanksgiving break) | |
