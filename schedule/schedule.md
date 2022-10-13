@@ -35,6 +35,6 @@ Topics:
 |**09/19** Transformation of discrete r.v. | **09/21** Transformation of continuous r.v.  |  **09/23** Presentations| |
 | **09/26** Expectation |**09/28** Expectation | **09/30** Presentations | [HW3](../HW/HW3/HW3.pdf)|
 | **10/03** Moments | **10/05** HW review | **10/07** _no class_ (fall break) | |
-| **10/10** Midterm Exam 1| **10/12** Midterm Exam 1 review | **10/14** Presentations | |
+| **10/10** Midterm Exam 1| **10/12** Midterm Exam 1 review | **10/14** Presentations | [HW4](../HW/HW4/HW4.pdf) |
 | | | | |
 | **11/21** _no class_ (Thanksgiving break) | **11/23** _no class_ (Thanksgiving break) | **11/25** _no class_ (Thanksgiving break) | |
