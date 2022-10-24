@@ -37,5 +37,5 @@ Topics:
 | **10/03** Moments | **10/05** HW review | **10/07** _no class_ (fall break) | |
 | **10/10** Midterm Exam 1| **10/12** Midterm Exam 1 review | **10/14** Presentations | [HW4](../HW/HW4/HW4.pdf) |
 | **10/17** Moment generating function | **10/19** Common discrete distributions |**10/21** Presentations | |
-| | | |
+| **10/24** Common continuous distributions | | |
 | **11/21** _no class_ (Thanksgiving break) | **11/23** _no class_ (Thanksgiving break) | **11/25** _no class_ (Thanksgiving break) | |
