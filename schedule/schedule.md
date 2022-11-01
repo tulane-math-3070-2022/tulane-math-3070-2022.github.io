@@ -38,5 +38,5 @@ Topics:
 | **10/10** Midterm Exam 1| **10/12** Midterm Exam 1 review | **10/14** Presentations | [HW4](../HW/HW4/HW4.pdf) |
 | **10/17** Moment generating function | **10/19** Common discrete distributions |**10/21** Presentations |  |
 | **10/24** Common continuous distributions | **10/26** Common continuous distributions | **10/28** Presentations ||
-| **10/31** Common continuous distributions | | | [HW5](../HW/HW5/HW5.pdf) |
+| **10/31** Normal distribution | **11/02** continuous distributions | | [HW5](../HW/HW5/HW5.pdf) |
 | **11/21** _no class_ (Thanksgiving break) | **11/23** _no class_ (Thanksgiving break) | **11/25** _no class_ (Thanksgiving break) | |
