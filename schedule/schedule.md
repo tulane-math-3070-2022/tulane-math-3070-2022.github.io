@@ -40,4 +40,5 @@ Topics:
 | **10/24** Common continuous distributions | **10/26** Common continuous distributions | **10/28** Presentations ||
 | **10/31** Normal distribution | **11/02** continuous distributions | **11/04** Presentations | [HW5](../HW/HW5/HW5.pdf) |
 | **11/07** Distribution families | **11/09** Multiple Random Variables | **11/11** Presentations | |
+| **11/14** Conditional Expectations | **11/16** Midterm Exam 2 | **11/18** Midterm Exam 2 review | |
 | **11/21** _no class_ (Thanksgiving break) | **11/23** _no class_ (Thanksgiving break) | **11/25** _no class_ (Thanksgiving break) | |
