@@ -42,4 +42,4 @@ Topics:
 | **11/07** Distribution families | **11/09** Multiple Random Variables | **11/11** Presentations | |
 | **11/14** Pre-exam review | **11/16** Midterm Exam 2 | **11/18** Midterm Exam 2 review | |
 | **11/21** _no class_ (Thanksgiving break) | **11/23** _no class_ (Thanksgiving break) | **11/25** _no class_ (Thanksgiving break) | |
-| **11/28** Conditional Distributions | | | |
+| **11/28** Conditional Distributions | **11/30** Bivariate Transformation | | [HW6](../HW/HW6/HW6.pdf)|
